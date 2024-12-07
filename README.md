@@ -14,3 +14,5 @@ ir al siguiente link
 https://wokwi.com/
 
 A continuacon seleccionamos lo siguiente:
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(334).png)
+![]()
