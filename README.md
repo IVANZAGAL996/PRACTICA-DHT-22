@@ -50,7 +50,7 @@ CARGAMOS LA LIBRERIA DTH
 ![]()
 INSERTAMOS EL DH22
 
-![]()
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(338).png)
 
 REALIZAMOS LA SIGUIENTE CONEXION
 
