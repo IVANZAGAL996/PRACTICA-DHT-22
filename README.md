@@ -15,4 +15,6 @@ https://wokwi.com/
 
 A continuacon seleccionamos lo siguiente:
 ![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(334).png)
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(335).png)
+Aparecera la siguiente interfaz:
 ![]()
