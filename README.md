@@ -16,5 +16,34 @@ https://wokwi.com/
 A continuacon seleccionamos lo siguiente:
 ![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(334).png)
 ![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(335).png)
+
 Aparecera la siguiente interfaz:
-![]()
+
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(336).png)
+Borraremos el codigo que viene por defecto y realizaremos el siguiente codigo:
+```
+#include "DHTesp.h"
+#include <LiquidCrystal_I2C.h>
+
+const int DHT_PIN = 15;
+DHTesp dhtSensor;
+
+
+void setup() {
+
+  Serial.begin(115200);
+  dhtSensor.setup(DHT_PIN, DHTesp::DHT22);
+}
+
+void loop() {
+
+  TempAndHumidity  data = dhtSensor.getTempAndHumidity();
+  Serial.println("Temp: " + String(data.temperature, 1) + "°C");
+  Serial.println("Humidity: " + String(data.humidity, 1) + "%");
+  Serial.println("---");
+  delay(1000);
+}
+
+ ```
+CARGAMOS LA LIBRERIA DTHE
+
