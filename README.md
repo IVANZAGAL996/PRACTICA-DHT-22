@@ -54,4 +54,4 @@ INSERTAMOS EL DH22
 
 REALIZAMOS LA SIGUIENTE CONEXION
 
-![]()
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(339).png)
