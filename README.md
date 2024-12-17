@@ -47,18 +47,30 @@ void loop() {
  ```
 CARGAMOS LA LIBRERIA DTH
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(337).png)
+![]()
+
 INSERTAMOS EL DH22
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(338).png)
+![]()
+
+INSERTAMOS EL lcd
+
+![]()
 
 REALIZAMOS LA SIGUIENTE CONEXION
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(339).png)
+![]()
 
 INICIAMOS LA SIMULACION Y OBSRRVAREMOS LOS RESULTASDOS EN EL MONITOR SERIAL.
 
-![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/resultados%20practicA%201.png)
+RESULTADOS HUMEDAD Y TEMPERATURA
+
+![]()
+
+RESULTADOS DISTANCIA
+
+![]()
+
 
 # CREDITOS
 Elaborado por:
